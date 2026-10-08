@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-214-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-219-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -47,10 +47,10 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (15)
 - [Communication and Productivity](#communication-and-productivity) (20)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (27)
-- [Data, Analytics, and BI](#data-analytics-and-bi) (19)
+- [Data, Analytics, and BI](#data-analytics-and-bi) (20)
 - [Legal and Court Data](#legal-and-court-data) (4)
 - [Security and Identity](#security-and-identity) (12)
-- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (31)
+- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (33)
 - [Utilities and Examples](#utilities-and-examples) (12)
 
 <a id="official-and-reference"></a>
@@ -405,6 +405,8 @@ Analytics platforms, monitoring, and business intelligence tooling.
   `dbt` `analytics` `transform`
 - **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** `Official` `JavaScript` — Hosted MCP server and live data layer for data-center site selection: mapped power, grid, gas and fiber assets, daily DCPI scores for 300+ markets and live grid feeds from the seven US ISOs; free tier needs no key.  
   `data-centers` `energy` `power-grid` `site-selection` `remote`
+- **[FalcoScan](https://falcoscan.com)** `Official` `Other` — Remote MCP server for researching 7,000+ AI products across 29 markets, including shut-down and acquired products.  
+  `ai-products` `market-research` `competitors` `remote`
 - **[Global Database](https://api.globaldatabase.com/docs/v2/#mcp-server)** `Official` `Other` — Hosted MCP server for company profiles, financials, ownership, officers, business contacts and KYB checks, with browser-based OAuth authentication.  
   `company-data` `business-intelligence` `kyb` `oauth`
 - **[Google GenAI Toolbox](https://github.com/googleapis/genai-toolbox)** `Official` `Go` — Connect agents to BigQuery, Cloud SQL, Spanner, and other Google data sources.  

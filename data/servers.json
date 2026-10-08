@@ -1952,6 +1952,24 @@
     "official": true
   },
   {
+    "name": "FalcoScan",
+    "url": "https://falcoscan.com",
+    "description": "Remote MCP server for researching 7,000+ AI products across 29 markets, including shut-down and acquired products.",
+    "category": "data-analytics-and-bi",
+    "language": "Other",
+    "provider": "FalcoScan",
+    "tags": [
+      "ai-products",
+      "market-research",
+      "competitors",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://falcoscan.com/api/mcp"
+    }
+  },
+  {
     "name": "Vault MCP Server",
     "url": "https://github.com/hashicorp/vault-mcp-server",
     "description": "Read secrets and manage HashiCorp Vault policies via MCP.",
